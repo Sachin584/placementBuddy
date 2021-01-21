@@ -4,7 +4,7 @@ A platform where a placed or senior student can post his/her interview experienc
 
 The idea of this project is to help students by creating a Q & N website. you can post or see any post or answer posted by someone on how to crack any particular compani and how to prepare for that.
 
-This video cover these topics:
+This project cover these topics:
 - Django forms
 - Django templates
 - Django Models & Django databases
